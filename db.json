@@ -1,0 +1,70 @@
+{
+  "usuario": [
+    {
+      "id": "47c6",
+      "username": "holaa"
+    },
+    {
+      "id": "256f",
+      "username": "Jean"
+    },
+    {
+      "id": "ab1e",
+      "username": "Johana "
+    },
+    {
+      "id": "1757",
+      "username": "jeanfreider"
+    },
+    {
+      "id": "9774",
+      "username": "pepe"
+    },
+    {
+      "id": "8072",
+      "username": "pepito"
+    },
+    {
+      "id": "ec5d",
+      "username": "NUEVOUSER"
+    },
+    {
+      "id": "412b",
+      "username": "usernuevo"
+    }
+  ],
+  "tareas": [
+    {
+      "id": "1523",
+      "text": "holaa",
+      "user": "holaa",
+      "checked": true
+    },
+    {
+      "id": "e0b2",
+      "text": "AAAAA",
+      "user": "Jean"
+    },
+    {
+      "id": "0349",
+      "text": "otra",
+      "user": "Jean",
+      "checked": true
+    },
+    {
+      "id": "da9b",
+      "text": "otra",
+      "user": "Johana "
+    },
+    {
+      "id": "3151",
+      "text": "tarea nueva",
+      "user": "jeanfreider"
+    },
+    {
+      "id": "07ad",
+      "text": "otra",
+      "user": "usernuevo"
+    }
+  ]
+}
